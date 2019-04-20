@@ -1,1 +1,64 @@
 /* pages/xishiduo/xishiduo.wxss */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding:0 30rpx;
+    margin-top: 86rpx;
+    font-size: 24rpx;
+    text-align: center;
+   
+
+}
+.nav image{
+    width: 88rpx;
+    height: 88rpx;
+   
+}
+.one{
+width: 100rpx;
+height: 61rpx;
+flex-shrink: 0
+}
+.one image{
+    width: 100rpx;
+height: 61rpx;
+}
+.three{
+    width: 132rpx;
+    height: 132rpx;
+    margin-top:-24rpx;
+
+}
+.three image{
+    width: 132rpx;
+    height: 132rpx;
+}
+.container{
+    padding:0;
+    
+}
+.banner{
+  width: 687rpx;
+  height: 413rpx;
+}
+.clound{
+  width: 58rpx;
+  height: 40rpx;
+}
+.cards{
+  margin-left: 30rpx;
+  display: flex;
+  flex-wrap: wrap;
+  height: 285rpx;
+}
+.card{
+  height: 190rpx;
+  width: 315rpx;
+  margin-right: 40rpx;
+}
+.cardItem{
+  font-size: 20rpx;
+  line-height: 2;
+  margin-top: 50rpx;
+  /* text-decoration:  */
+}
