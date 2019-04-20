@@ -1,37 +1,37 @@
 <view class="total">
     <view class="navig">
         <view class="img">
-            <image mode="widthFix" src="images/seven.png"></image>
+            <image mode="widthFix" src="../../images/seven.png"></image>
             <text>喜士多</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="images/eleven.png"></image>
+            <image mode="widthFix" src="../../images/eleven.png"></image>
             <text>DQ冰雪皇后</text>
         </view>
         <view class="img" style="width:172rpx;margin-top:0">
-            <image mode="widthFix" src="images/tow.png"></image>
+            <image mode="widthFix" src="../../images/tow.png"></image>
             <text>肯德基</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="images/five.png"></image>
+            <image mode="widthFix" src="../../images/five.png"></image>
             <text>必胜客</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="images/one.png"></image>
+            <image mode="widthFix" src="../../images/one.png"></image>
             <text>全家</text>
         </view>
     </view>
     <view class='big'>
-        <image mode="widthFix" src="images/six.png"></image>
+        <image mode="widthFix" src="../../images/six.png"></image>
     </view>
     <view style="margin-top:62rpx">
         <view style="display:flex">
-            <image style="width:80rpx" mode="widthFix" src="images/ten.png"></image>
+            <image style="width:80rpx" mode="widthFix" src="../../images/ten.png"></image>
             <text style="font-size:38rpx;margin-left:20rpx">肯德基礼品卡</text>
         </view>
         <view class="listimg">
             <view class="chart">
-                <image mode="widthFix" src="images/golook.png"></image>
+                <image mode="widthFix" src="../../images/golook.png"></image>
                 <view>
                     <text style="margin-right:5rpx">50元礼品卡</text>
                     <text style="margin-left:5rpx">￥47元</text>
@@ -41,7 +41,7 @@
                 </view>
             </view>
             <view class="chart">
-                <image mode="widthFix" src="images/three.png"></image>
+                <image mode="widthFix" src="../../images/three.png"></image>
                 <view>
                     <text style="margin-right:5rpx">100元礼品卡</text>
                     <text style="margin-left:5rpx">￥95元</text>
@@ -51,7 +51,7 @@
                 </view>
             </view>
             <view class="chart">
-                <image mode="widthFix" src="images/four.png"></image>
+                <image mode="widthFix" src="../../images/four.png"></image>
                 <view>
                     <text style="margin-right:5rpx">200元礼品卡</text>
                     <text style="margin-left:5rpx">￥190元</text>
