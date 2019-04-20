@@ -1,23 +1,23 @@
 <view class="total">
     <view class="navig">
         <view class="img">
-            <image mode="widthFix" src="../../images/seven.png"></image>
+            <image mode="widthFix" src="../../images/xishiduo.png"></image>
             <text>喜士多</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="../../images/eleven.png"></image>
+            <image mode="widthFix" src="../../images/dq.png"></image>
             <text>DQ冰雪皇后</text>
         </view>
         <view class="img" style="width:172rpx;margin-top:0">
-            <image mode="widthFix" src="../../images/tow.png"></image>
+            <image mode="widthFix" src="../../images/kfc.png"></image>
             <text>肯德基</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="../../images/five.png"></image>
+            <image mode="widthFix" src="../../images/Pizza.png"></image>
             <text>必胜客</text>
         </view>
         <view class="img">
-            <image mode="widthFix" src="../../images/one.png"></image>
+            <image mode="widthFix" src="../../images/whole family.png"></image>
             <text>全家</text>
         </view>
     </view>
