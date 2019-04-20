@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/shanlin/shanlin",
     "pages/xishiduo/xishiduo",
     "pages/index/index",
     "pages/logs/logs",
@@ -8,6 +9,7 @@
     "pages/kfc/kfc",
     "pages/wholeFamily/wholeFamily",
     "pages/tianfu/tianfu"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",
