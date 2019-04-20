@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/xishiduo/xishiduo",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/dairyQueen/dairyQueen",
+    "pages/pizza/pizza",
+    "pages/kfc/kfc",
+    "pages/wholeFamily/wholeFamily",
+    "pages/tianfu/tianfu"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#606a76",
+    "selectedColor": "#d8ac6b",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/xishiduo/xishiduo",
+        "text": "喜士多"
+      },
+      {
+        "pagePath": "pages/dairyQueen/dairyQueen",
+        "text": "冰雪皇后"
+      },
+      {
+        "pagePath": "pages/kfc/kfc",
+        "text": "肯德基"
+      },
+      {
+        "pagePath": "pages/pizza/pizza",
+        "text": "必胜客"
+      }
+    ]
+  }
+}
