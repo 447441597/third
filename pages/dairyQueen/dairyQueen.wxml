@@ -1,2 +1,83 @@
 <!--pages/dairyQueen/dairyQueen.wxml-->
-<text>pages/dairyQueen/dairyQueen.wxml</text>
+<view class="header">
+    <view class="nav">
+        <view class="navitem">
+            <image src="../../images/xishiduo.png" class="navimg" />
+            <text style="display:block;font-size:26rpx;color:#acacac">喜士多</text>
+        </view>
+        <view class="navitem">
+            <image src="../../images/dq.png" class="navimg" />
+            <text style="display:block;font-size:26rpx;color:#acacac">DQ冰雪皇后</text>
+        </view>
+        <view class="navitem">
+            <image src="../../images/kfc.png" class="navimg" />
+            <text style="display:block;font-size:26rpx;color:#acacac">肯德基</text>
+        </view>
+        <view class="navitem">
+            <image src="../../images/pizza.png" class="navimg" />
+            <text style="display:block;font-size:26rpx;color:#acacac">必胜客</text>
+        </view>
+        <view class="navitem">
+            <image src="../../images/quanjia.png" class="navimg" />
+            <text style="display:block;font-size:26rpx;color:#acacac">全家</text>
+        </view>
+    </view>
+</view>
+<scroll-view
+    scroll-y="true"
+    >
+<view class="banner">
+    <image src="../../images/jiayou.png" class="bannerimg" />
+</view>
+<view class="logo">
+    <image src="../../images/yunlogo.png" class="logoimg" />
+    <text style="font-size:30rpx;color:#44423e">DQ电子缤纷卡</text>
+</view>
+<view class="carbox">
+    <view class="caritem">
+        <image src="../../images/dq (2).png" class="carimg" />
+        <view>
+            <text style="font-size:22rpx;color:#313131">20元电子缤纷卡...</text>
+             <text style="font-size:22rpx;color:#ae6a65">￥18</text>
+        </view>
+        <text style="font-size:20rpx;color:#8f8f8f">可直接抵扣等值产品，多次使用</text>
+    </view>
+     <view class="caritem">
+        <image src="../../images/dq (2).png" class="carimg" />
+        <view>
+            <text style="font-size:22rpx;color:#313131">27元电子缤纷卡...</text>
+             <text style="font-size:22rpx;color:#ae6a65">￥18</text>
+        </view>
+        <text style="font-size:20rpx;color:#8f8f8f">可直接抵扣等值产品，多次使用</text>
+    </view>
+</view>
+<view class="carbox">
+    <view class="caritem">
+        <image src="../../images/dq (2).png" class="carimg" />
+        <view>
+            <text style="font-size:22rpx;color:#313131">50元电子缤纷卡...</text>
+             <text style="font-size:22rpx;color:#ae6a65">￥45</text>
+        </view>
+        <text style="font-size:20rpx;color:#8f8f8f">可直接抵扣等值产品，多次使用</text>
+    </view>
+     <view class="caritem">
+        <image src="../../images/dq (2).png" class="carimg" />
+        <view>
+            <text style="font-size:22rpx;color:#313131">100元电子缤纷卡...</text>
+             <text style="font-size:22rpx;color:#ae6a65">￥90</text>
+        </view>
+        <text style="font-size:20rpx;color:#8f8f8f">可直接抵扣等值产品，多次使用</text>
+    </view>
+</view>
+<view class="carbox">
+    <view class="caritem">
+        <image src="../../images/dq (2).png" class="carimg" />
+        <view>
+            <text style="font-size:22rpx;color:#313131">200元电子缤纷卡...</text>
+             <text style="font-size:22rpx;color:#ae6a65">￥180</text>
+        </view>
+        <text style="font-size:20rpx;color:#8f8f8f">可直接抵扣等值产品，多次使用</text>
+    </view>
+</view>
+</scroll-view
+    >
