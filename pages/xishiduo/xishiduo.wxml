@@ -1,2 +1,69 @@
 <!--pages/xishiduo/xishiduo.wxml-->
-<text>pages/xishiduo/xishiduo.wxml</text>
+<view  class="nav">
+        <view class="one">
+                <image src="/images/xishiduo.png" />
+                <view style="margin-top: 50rpx">
+                    <text>喜士多</text>
+                </view>
+            </view>
+    <view class="one">
+        <image src="/images/dq.png" />
+        <view style="margin-top: 50rpx">
+            <text>冰雪皇后</text>
+        </view>
+    </view>
+    <view class="two">
+        <image src="/images/kfc.png" />
+       
+        <view style="margin-top: 30rpx"> <text>肯德基</text></view>
+    </view>
+    <view class="three">
+        <image src="/images/Pizza.png" />
+        <view style="margin-top: 10rpx"> <text>必胜客</text></view>
+       
+    </view>
+    <view>
+        <image src="/images/whole family.png" />
+        <view style="margin-top: 30rpx"><text>全家</text></view>
+        
+    </view>
+    </view>
+<view class="container">
+  <view style='width:750rpx;padding-left:60rpx'>
+    <image src='/images/banner.png' class="banner"></image>
+  </view>
+  <view style='width:750rpx;padding-left:60rpx'>
+    <image src='/images/clound.png' class='clound'></image>
+    <text style='font-size:25rpx;margin-left:20rpx;color:#55564c'>喜士多心意卡</text>
+  </view>
+  <view class='cards'>
+    <view class='cardItem'>
+      <image src='/images/1.png' class="card"></image>
+      <view style='text-align:center'>
+        <text>10元现金券</text>
+        <text style='color:red;margin-left:58rpx'>￥9.6</text>
+        <text style='color:#6e6e6e;'>￥10</text>
+      </view>
+      <view style='text-align:center;color:#6e6e6e'>不限品类可兑换任意商品</view>
+    </view>
+    <view class='cardItem'>
+      <image src='/images/2.png' class="card"></image>
+      <view style='text-align:center'>
+        <text>20元现金券</text>
+        <text style='color:red;margin-left:58rpx'>￥19.6</text>
+        <text style='color:#6e6e6e;'>￥20</text>
+      </view>
+      <view style='text-align:center;color:#6e6e6e'>不限品类可兑换任意商品</view>
+    </view>
+    <view class='cardItem'>
+      <image src='/images/3.png' class="card"></image>
+      <view style='text-align:center'>
+        <text>50元现金券</text>
+        <text style='color:red;margin-left:58rpx'>￥40</text>
+        <text style='color:#6e6e6e;'>￥50</text>
+      </view>
+      <view style='text-align:center;color:#6e6e6e'>不限品类可兑换任意商品</view>
+    </view>
+
+  </view>
+</view>
