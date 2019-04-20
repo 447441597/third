@@ -13,7 +13,11 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
+<<<<<<< HEAD
 	"appid": "wx0ec1534d7e5751e7",
+=======
+	"appid": "wx8ee0af3bb728c4cb",
+>>>>>>> cf17a9fe6c323594218c860c7238a6e4b09ae9bb
 	"projectname": "third",
 	"debugOptions": {
 		"hidedInDevtools": []

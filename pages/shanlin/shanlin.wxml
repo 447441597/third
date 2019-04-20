@@ -1,0 +1,62 @@
+<!-- pages/tianfu/tianfu.wxml -->
+<!-- <text>pages/tianfu/tianfu.wxml</text> -->
+<view>
+    <view class="header">
+       <view class="head">
+           <image src="../../images/2_20190419231727.png"></image>
+           <text>肯德基</text>
+       </view>
+         <view class="head">
+           <image src="../../images/3_20190419231732.png"></image>
+           <text>必胜客</text>
+       </view>
+         <view class="head">
+           <image src="../../images/4_20190419231735.png"></image>
+           <text>全家</text>
+       </view>
+         <view class="head">
+           <image src="../../images/5_20190419231740.png"></image>
+           <text>广州天福</text>
+       </view>
+         <view class="head">
+           <image src="../../images/1_20190419231743.png" style="width:172rpx;height:172rpx;margin-bottom:16rpx"></image>
+           <text>山林</text>
+       </view>
+    </view>
+    <view class="datu">
+        <image src="../../images/123_20190419230846.png"></image>
+    </view>
+    <view style="padding:0 35rpx;margin-top:50rpx">
+        <image src="../../images/3_25.png" style="height:45rpx;width:80rpx"></image>
+        <text>山林心意卡</text>
+    </view>
+    <view class="money">
+         <view class="item">
+            <image src="../../images/1555683409(1).jpg"></image>
+            <view class="item-text">
+                <text class="card">10元现金券</text>
+                <text class="price">￥8.5</text>
+            </view>
+            <view style="text-align:center">
+            <text class="aside">不限品类，可兑换任意商品</text></view>
+        </view>
+          <view class="item">
+            <image src="../../images/1555683418(1).jpg"></image>
+            <view class="item-text">
+                <text class="card">20元现金券</text>
+                <text class="price">￥17</text>
+            </view>
+            <view style="text-align:center">
+            <text class="aside">不限品类，可兑换任意商品</text></view>
+        </view>
+         <view class="item">
+            <image src="../../images/1555683437(1).jpg"></image>
+            <view class="item-text">
+                <text class="card">50元现金券</text>
+                <text class="price">￥42.5</text>
+            </view>
+            <view style="text-align:center">
+            <text class="aside">不限品类，可兑换任意商品</text></view>
+        </view>
+    </view>
+</view>
