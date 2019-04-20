@@ -1,1 +1,41 @@
+
 /* pages/kfc/kfc.wxss */
+/* pages/Chicken/Chicken.wxss */
+.navig{
+    display: flex;
+    justify-content: space-between;
+}
+.total{
+    padding: 44rpx;
+}
+.img{
+    width: 80rpx;
+    margin-top: 40rpx;
+    text-align: center;
+
+}
+.img text{
+    font-size: 15rpx;
+}
+.img image{
+    width: 100%;
+}
+.big{
+    margin-top: 26rpx;
+}
+.listimg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.chart{
+    width: 47%;
+    text-align: center;
+    margin-top: 32rpx;
+}
+.chart image{
+    width: 100%;
+}
+.chart text{
+    font-size: 28rpx;
+}

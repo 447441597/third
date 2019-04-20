@@ -1,3 +1,4 @@
+
 // pages/kfc/kfc.js
 Page({
 
