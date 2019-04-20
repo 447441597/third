@@ -1,1 +1,43 @@
 /* pages/dairyQueen/dairyQueen.wxss */
+.header{
+    width: 750rpx;
+    height: 160rpx;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navimg{
+    width: 82rpx;
+    height: 82rpx;
+}
+
+.bannerimg{
+    width: 690rpx;
+    height: 415rpx;
+    margin-left: 30rpx;
+}
+.logo{
+    margin-left: 40rpx;
+    margin-bottom: 22rpx;
+}
+.logoimg{
+    width: 56rpx;
+    height: 30rpx;
+}
+.carimg{
+    width: 315rpx;
+    height: 190rpx;
+}
+.carbox{
+    margin-left: 40rpx;
+    margin-right: 40rpx;
+    margin-bottom: 20rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.caritem{
+    text-align: center;
+}
