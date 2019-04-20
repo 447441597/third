@@ -1,1 +1,78 @@
 /* pages/pizza/pizza.wxss */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding:0 30rpx;
+    margin-top: 86rpx;
+    font-size: 24rpx;
+    text-align: center;
+   
+
+}
+.nav image{
+    width: 88rpx;
+    height: 88rpx;
+   
+}
+.one{
+width: 100rpx;
+height: 61rpx;
+}
+.one image{
+    width: 100rpx;
+height: 61rpx;
+}
+.three{
+    width: 132rpx;
+    height: 132rpx;
+    margin-top:-24rpx;
+
+}
+.three image{
+    width: 132rpx;
+    height: 132rpx;
+}
+.content{
+    width: 650rpx;
+    height: 300rpx;
+    margin: 0 auto;
+    margin-top: 30rpx;
+}
+.container{
+    width: 650rpx;
+    margin: 0 auto;
+    font-size: 26rpx;
+    text-align: center
+}
+.top{
+    width: 650rpx;
+    display: flex;
+    justify-content: space-between
+}
+.left{
+width: 300rpx;
+height: 200rpx;
+}
+.left image{
+    width: 300rpx;
+    height: 200rpx;
+}
+.right{
+width: 300rpx;
+height: 200rpx;
+}
+.right image{
+    width: 300rpx;
+    height: 200rpx;
+}
+.bottom{
+    width: 300rpx;
+    height: 200rpx; 
+    margin-top:111rpx;
+    margin-left:-353rpx;
+}
+.bottom image{
+    width: 300rpx;
+    height: 200rpx; 
+
+}

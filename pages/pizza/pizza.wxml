@@ -1,2 +1,72 @@
-<!--pages/pizza/pizza.wxml-->
-<text>pages/pizza/pizza.wxml</text>
+<!--pages/pizzahut/pizzahut.wxml-->
+<view class="nav">
+<view class="one">
+    <image src="/images/dq.png" />
+<view style="margin-top: 50rpx">
+    <text>冰雪皇后</text>
+</view>
+</view>
+<view class="two">
+    <image src="/images/kfc.png" />
+   
+    <view style="margin-top: 30rpx"> <text>肯德基</text></view>
+</view>
+<view class="three">
+    <image src="/images/Pizza hut.png" />
+    <view style="margin-top: 10rpx"> <text>必胜客</text></view>
+   
+</view>
+<view>
+    <image src="/images/whole family.png" />
+    <view style="margin-top: 30rpx"><text>全家</text></view>
+    
+</view>
+<view>
+    <image src="/images/Tianfu.png" />
+    <view style="margin-top: 30rpx"> <text>广州天福</text></view>
+   
+</view>
+</view>
+<view class="content">
+    <image src="/images/Pizza.png" />
+</view>
+<view class="container">
+    <view class="top">
+        <view class="left"> 
+            <image src="/images/Pizza.png" />
+        <view style=" display: flex; padding-left: 40rpx">
+            <view>
+                <text>50元必胜卡</text>
+            </view> 
+            <view>
+                <text>￥47.5</text>
+            </view> 
+        </view> 
+        <text>世界杯，今晚约起！</text>
+        </view>
+        <view class="right">
+            <image src="/images/Headlines.png" />
+            <view style=" display: flex; padding-left: 40rpx">
+                <view >
+                    <text>50元必胜卡</text>
+                </view> 
+                <view>
+                    <text>￥47.5</text>
+                </view> 
+            </view> 
+            <text>祝你节日快乐</text>
+        </view>
+    </view>
+    <view class="bottom">
+        <image src="/images/happy.png" />
+        <view style=" display: flex;padding-left: 40rpx">
+            <view >
+                <text>50元必胜卡</text>
+            </view> 
+            <view>
+                <text>￥47.5</text>
+            </view> 
+        </view> 
+        <text>走，请你吃PIZZA</text>
+    </view>
+</view>

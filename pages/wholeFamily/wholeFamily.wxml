@@ -1,2 +1,104 @@
-<!--pages/wholeFamily/wholeFamily.wxml-->
-<text>pages/wholeFamily/wholeFamily.wxml</text>
+<!-- pages/wholeFamily/wholeFamily.wxml -->
+<view class="header">
+    <view>
+        <image src="./img/kdj_03.png" />
+        <text>肯德基</text>
+    </view>
+    <view>
+        <image src="./img/5yuan_08.png" />
+        <text>必胜客</text>
+    </view>
+    <view class='one'>
+        <image src="./img/5yuan_03.png" />
+        <text>全家</text>
+    </view>
+    <view>
+        <image src="./img/5yuan_11.png" />
+        <text>广州天福</text>
+    </view>
+    <view>
+        <image src="./img/5yuan_13.png" />
+        <text>山林</text>
+    </view>
+</view>
+<view class="banner">
+    <image src="./img/banner.png" />
+</view>
+<view class="main">
+    <view class="top">
+        <image src="./img/xiangyun_25.png" />
+        <text>全家心意卡</text>
+    </view>
+    <view class="moneyAll">
+        <view class="money">
+            <image src="./img/5yuan_25.png" />
+            <view class='textTop'>
+                <text class="five">5元现金卷</text>
+                <view>
+                    <text class="redMoney">￥5</text>
+                    <text class="noMoney">￥5</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+        <view class="money">
+            <image src="./img/10yuan_27.png" />
+            <view class='textTop'>
+                <text class="five">10元现金卷</text>
+                <view>
+                    <text class="redMoney">￥10</text>
+                    <text class="noMoney">￥10</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+    </view>
+    <view class="moneyAll">
+        <view class="money">
+            <image src="./img/20yuan_31.png" />
+            <view class='textTop'>
+                <text class="five">20元现金卷</text>
+                <view>
+                    <text class="redMoney">￥20</text>
+                    <text class="noMoney">￥20</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+        <view class="money">
+            <image src="./img/30yuan_32.png" />
+            <view class='textTop'>
+                <text class="five">30元现金卷</text>
+                <view>
+                    <text class="redMoney">￥30</text>
+                    <text class="noMoney">￥30</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+    </view>
+    <view class="moneyAll">
+        <view class="money">
+            <image src="./img/50yuan_35.png" />
+            <view class='textTop'>
+                <text class="five">50元现金卷</text>
+                <view>
+                    <text class="redMoney">￥50</text>
+                    <text class="noMoney">￥50</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+        <view class="money none">
+            <image src="./img/5yuan_25.png" />
+            <view class='textTop'>
+                <text class="five">5元现金卷</text>
+                <view>
+                    <text class="redMoney">￥5</text>
+                    <text class="noMoney">￥5</text>
+                </view>
+            </view>
+            <text class="textBotton">不限品类，可兑换任意商品</text>
+        </view>
+    </view>
+</view>
